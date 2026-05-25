@@ -1,4 +1,4 @@
-- name: Initialize CodeQL
+name: Initialize CodeQL
       uses: github/codeql-action/init@v3
       with:
         languages: javascript-typescript
